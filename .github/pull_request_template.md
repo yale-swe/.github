@@ -18,6 +18,9 @@
 - [ ] Configuration / CI / Build Change
 - [ ] Other (please describe)
 
+## Main Contributors
+<!-- List main people that worked on this solution -->
+
 ## Screenshots (if applicable)
 <!-- Drag & drop or link -->
 
