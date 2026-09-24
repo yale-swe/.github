@@ -2,12 +2,12 @@
 <!-- Explain the problem and the solution in plain language -->
 
 ## Related Issues (Optional)
-<!-- Link to issues that this PR addresses -->
+<!-- Link to issues that this PR addresses
 - Closes #123
 - Fixes #456
-- Relates to #789
+- Relates to #789 -->
 
-## Changes
+## Type of Changes
 - [ ] New Feature
 - [ ] Bug Fix
 - [ ] Refactor (non-breaking code change that improves readability/structure)
@@ -21,11 +21,14 @@
 ## Main Contributors
 <!-- List main people that worked on this solution -->
 
+## AI Usage
+<!-- Describe to what extent AI was used in producing this contribution -->
+
 ## Screenshots (if applicable)
 <!-- Drag & drop or link -->
 
 ## Checklist
-- [ ] PR targets the `main` branch
+- [ ] PR targets the `main` branch (or the default branch)
 - [ ] At least one reviewer assigned
 - [ ] Tests added or updated
 - [ ] Documentation updated (if needed)
